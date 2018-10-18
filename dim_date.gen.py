@@ -57,7 +57,7 @@ while( startDate <= endDate ):
         , 'dt_y_m_d': startDate.strftime('%Y-%m-%d')
         , 'dt_year': startDate.strftime('%Y')
         , 'dt_month': startDate.strftime('%m')
-        , 'dt_day': startDate.strftime('%j')
+        , 'dt_day': startDate.strftime('%d')
         , 'dt_days_in_year' : days_in_year
         , 'dt_day_of_year': startDate.strftime('%j')
         , 'dt_days_left_in_year' : days_left_in_year
