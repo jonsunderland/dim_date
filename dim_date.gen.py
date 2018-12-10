@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from datetime import date, time, datetime, timedelta
 import random
 import math
